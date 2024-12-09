@@ -2,7 +2,7 @@
 name = "diffenator2"
 description = "Compare two fonts"
 authors = [ "Marc Foley <m.foley.88@gmail.com>" ]
-version = "0"
+version = "0.4.5"
 
 [tool.poetry-dynamic-versioning]
 enable = true
